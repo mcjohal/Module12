@@ -5,7 +5,7 @@ A function may require simpler functions to carry out its work.
 Keypoint: break down problems in smaller subproblems (functions) that are easier to solve and manage.
 '''
 #comment
-def main():
+def main(): 
     grade_dictionary = {
         "Alice": ["85", "90", "78"],    
         "Bob": ["92", "88", "95"],      
